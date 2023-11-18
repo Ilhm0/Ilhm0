@@ -6,7 +6,7 @@
 
 ### Some Tools and Tech I use
 
-<img hieght="50px" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img hieght="50px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
+<img hieght="50px" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img hieght="50px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"> <img hieght="30px" src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white">
 
 
 
